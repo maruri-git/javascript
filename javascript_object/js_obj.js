@@ -29,3 +29,4 @@ function calculateTotalFruits() {
 
     console.log(`Total Fruits: ${totalFruits}`)
 }
+calculateTotalFruits()
